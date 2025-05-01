@@ -2,13 +2,14 @@
 body {
     background-image: url('images/Planetx.jpg');
     
-        
+    background-repeat: no-repeat;
     background-position: center;
     background-attachment: fixed;
     background-color: black;
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-size: cover;
 }
 
 h1 {
