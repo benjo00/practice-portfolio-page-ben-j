@@ -1,0 +1,36 @@
+
+body {
+    background-color: beige;
+}
+
+h1 {
+    color: forestgreen;
+    text-align: center;
+}
+
+.frySandwich {
+    display: block;
+    margin: auto;
+   
+}
+
+h2 {
+    color: darkgoldenrod;
+}
+
+h3 {
+    color: darkorange;
+    
+}
+
+ul {
+    letter-spacing: 1px;
+}
+
+.fryCoffee {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
