@@ -1,11 +1,19 @@
 
 body {
-    background-color: beige;
+    background-image: url(https://static.wikia.nocookie.net/spaceships/images/9/9c/Planetx.jpeg/revision/latest?cb=20160223175310);
+    background-repeat: no-repeat;
+    background-size: cover;    
+    background-position: center;
+    background-attachment: fixed;
 }
 
 h1 {
     color: forestgreen;
     text-align: center;
+    background: linear-gradient(to right, grey, white);
+    margin: 0 auto;
+    padding: 10px;
+    width: 700px;
 }
 
 .frySandwich {
@@ -15,16 +23,35 @@ h1 {
 }
 
 h2 {
-    color: darkgoldenrod;
+    color: darkblue;
+    background: linear-gradient(to right, grey, white);
+    width: 300px;             
+    padding: 15px;
+    margin: auto;  
+    margin-top: 20px;             
+    border-radius: 8px;         
+    list-style-position: inside;
 }
 
 h3 {
-    color: darkorange;
+    color: purple;
+    background: linear-gradient(to right, grey, white);
+    width: 300px;             
+    padding: 15px;
+    margin: 20px;               
+    border-radius: 8px;         
+    list-style-position: inside;
     
 }
 
 ul {
     letter-spacing: 1px;
+    background: linear-gradient(to right, grey, white);
+    width: 300px;             
+    padding: 15px;
+    margin: 20px;               
+    border-radius: 8px;         
+    list-style-position: inside;
 }
 
 .fryCoffee {
@@ -32,9 +59,34 @@ ul {
     padding-right: 30px;
     padding-bottom: 50px;
     padding-left: 80px;
+
 }
 
 .contactCard {
     background-color: rgb(180, 8, 180); font-size: 20px;
+    width: 300px;             
+    padding: 15px;
+    margin: 20px;               
+    border-radius: 8px;         
+    list-style-position: inside;
+}
 
+p{
+    background-color: cornsilk;
+    width: 700px;             
+    padding: 15px;
+    margin: auto;               
+    border-radius: 8px;         
+    list-style-position: inside;
+    margin-top: 20px;    
+}
+
+footer {
+    background-color: cornsilk;
+    width: 700px;             
+    padding: 15px;
+    margin: left;               
+    border-radius: 8px;         
+    list-style-position: inside;
+    margin-top: 20px;    
 }
